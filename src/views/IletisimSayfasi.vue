@@ -4,7 +4,11 @@
     <!-- <Breadcrumb breadcrumb="Tables" /> -->
 
     <div class="mt-4">
-      <h4 class="text-black-600">KULLANICI MESAJLARI</h4>
+      <div class="p-3 bg-blue-200 shadow rounded-md w-60 mt-10">
+        <h4 class="text-black-600 font-bold">KULLANICI MESAJLARI</h4>
+        
+      </div>
+      
 
       <div class="mt-6">
         <div class="my-6 overflow-hidden bg-white rounded-md shadow">

@@ -113,8 +113,8 @@ import { ref } from "vue";
 import { useRouter } from "vue-router";
 
 const router = useRouter();
-const email = ref("admin@mail.com");
-const password = ref("admin123");
+const email = ref("admin@example.com");
+const password = ref("Admin.123");
 
 function login() {
   router.push("/dashboard");
